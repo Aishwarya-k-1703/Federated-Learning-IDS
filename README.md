@@ -125,31 +125,7 @@ The models were evaluated using:
 
 ---
 
-## Repository Structure
 
-```text
-Federated-Learning-IDS/
-│
-├── README.md
-├── FinalReport.pdf
-│
-├── notebooks/
-│   ├── preprocessing.ipynb
-│   ├── mlp.ipynb
-│   ├── dnn.ipynb
-│   ├── cnn.ipynb
-│   ├── lstm.ipynb
-│   ├── cnn_lstm.ipynb
-│   └── federated_learning.ipynb
-│
-├── results/
-│   ├── confusion_matrices/
-│   ├── centralized_vs_federated.png
-│   ├── performance_improvement.png
-│   └── convergence_analysis.png
-```
-
----
 
 ## Future Work
 
